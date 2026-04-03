@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verify Certificate | DNK MEDIA</title>
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="logo">
+                <img src="images/dnk-media.png" alt="DNK MEDIA Logo" class="logo-img">
+            </div>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Training</a></li>
+                <li><a href="#">Courses</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">About</a></li>
+            </ul>
+            <a href="#" class="btn btn-primary">Get Started</a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="hero">
+        <div class="container hero-content">
+            <h1>Verify & <span>Empower</span> Your Future</h1>
+            <p>Enter your Certificate ID / Ref No to verify the authenticity of your DNK Media certification.</p>
+            
+            <div class="search-box">
+                <input type="text" id="cert-id" placeholder="Enter Reference No (e.g. 20254374)">
+                <button onclick="verifyCertificate()" id="verify-btn">Verify Now</button>
+            </div>
+            
+            <div id="results-container" class="results-container hidden">
+                <!-- Result card will be injected here -->
+            </div>
+        </div>
+    </header>
+
+    <!-- Trust Section -->
+    <section class="trust-section">
+        <div class="container trust-banner">
+            <div class="trust-item">
+                <i class="fas fa-globe"></i>
+                <span>ISO Certified</span>
+            </div>
+            <div class="trust-item">
+                <i class="fas fa-landmark"></i>
+                <span>MSME Registered</span>
+            </div>
+            <div class="trust-item">
+                <i class="fas fa-city"></i>
+                <span>Private Limited</span>
+            </div>
+            <div class="trust-item">
+                <i class="fas fa-award"></i>
+                <span>IAF Certified</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- Why Choose Section (Optional Preview) -->
+    <section class="why-choose">
+        <div class="container section-header">
+            <h2>Why Choose <span>DNK MEDIA?</span></h2>
+        </div>
+        <div class="container services-grid">
+            <div class="service-card">
+                <i class="fas fa-chalkboard-teacher"></i>
+                <h3>Industry-Expert Trainers</h3>
+                <p>Learn from professionals actively working in top tech companies with 5+ years of experience.</p>
+            </div>
+            <div class="service-card">
+                <i class="fas fa-laptop-code"></i>
+                <h3>Project-Based Learning</h3>
+                <p>Build portfolio-worthy projects that solve actual business problems, not just theoretical exercises.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container footer-content">
+            <p>&copy; 2026 DNK MEDIA. All rights reserved. Powered by SIYADNK SOFTWARE PRIVATE LIMITED</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
