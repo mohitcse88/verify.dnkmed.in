@@ -106,7 +106,7 @@ body {
 
 /* Hero Section */
 .hero {
-    padding: 100px 0;
+    padding: 60px 0 40px; /* Reduced padding to bring content closer */
     text-align: center;
     background: linear-gradient(135deg, #f3f8ff 0%, #e0edff 100%);
 }
@@ -166,7 +166,7 @@ body {
 
 /* Trust Section */
 .trust-section {
-    padding: 60px 0;
+    padding: 20px 0; /* Reduced padding as per user's red marks */
     background-color: transparent;
 }
 
@@ -225,7 +225,7 @@ body {
 
 /* Why Choose Section */
 .why-choose {
-    padding: 80px 0;
+    padding: 40px 0; /* Reduced padding to tighten layout */
 }
 
 .section-header {
