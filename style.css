@@ -40,7 +40,7 @@ body {
 }
 
 .hero .search-hint {
-    margin-top: 50px;
+    margin-top: 25px; /* Reduced from 50px for balance */
     font-size: 0.9rem;
     color: #666;
     font-weight: 400;
@@ -106,7 +106,7 @@ body {
 
 /* Hero Section */
 .hero {
-    padding: 60px 0 40px; /* Reduced padding to bring content closer */
+    padding: 50px 0 30px; /* Reduced further for compactness */
     text-align: center;
     background: linear-gradient(135deg, #f3f8ff 0%, #e0edff 100%);
 }
@@ -125,7 +125,7 @@ body {
     font-size: 18px;
     color: var(--text-muted);
     max-width: 600px;
-    margin: 0 auto 40px;
+    margin: 0 auto 25px; /* Reduced bottom margin from 40px */
 }
 
 /* Search Box */
