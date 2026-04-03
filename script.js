@@ -61,6 +61,9 @@ function showSuccess(student) {
                 <p><span class="label">Course Name:</span> <span class="value">${student.course}</span></p>
             </div>
             <div class="result-detail">
+                <p><span class="label">College:</span> <span class="value">${student.college}</span></p>
+            </div>
+            <div class="result-detail">
                 <p><span class="label">Duration:</span> <span class="value">${student.duration}</span></p>
             </div>
             <div class="result-detail">
