@@ -36,9 +36,10 @@
             <p>Enter your Certificate ID / Ref No to verify the authenticity of your DNK Media certification.</p>
             
             <div class="search-box">
-                <input type="text" id="cert-id" placeholder="Enter Reference No (e.g. 20254374)">
-                <button onclick="verifyCertificate()" id="verify-btn">Verify Now</button>
+                <input type="text" id="certificateId" placeholder="Enter Reference No (e.g. 20254374)">
+                <button id="verifyBtn" class="btn btn-primary">Verify Now</button>
             </div>
+            <p class="search-hint">You can verify using these Reference IDs (e.g. 20254374, 20251712)</p>
             
             <div id="results-container" class="results-container hidden">
                 <!-- Result card will be injected here -->

@@ -79,5 +79,113 @@
         "status": "Verified",
         "college": "Uttar Pradesh Polytechnic College",
         "issued_by": "SIYADNK SOFTWARE PRIVATE LIMITED"
+    },
+    {
+        "id": "PIET2025001",
+        "name": "Naina Madan",
+        "course": "6-week Web Development Internship Program",
+        "duration": "15 July 2025 to 15 August 2025",
+        "status": "Verified",
+        "college": "P.I.E.T - Panipat Institute of Engineering & Technology, Panipat",
+        "issued_by": "SIYADNK SOFTWARE PRIVATE LIMITED"
+    },
+    {
+        "id": "PIET2025002",
+        "name": "Sukhwinder",
+        "course": "4-week Web Development Internship Program",
+        "duration": "15 July 2025 to 15 August 2025",
+        "status": "Verified",
+        "college": "P.I.E.T - Panipat Institute of Engineering & Technology, Panipat",
+        "issued_by": "SIYADNK SOFTWARE PRIVATE LIMITED"
+    },
+    {
+        "id": "PIET2025003",
+        "name": "Deepanshu Mahal",
+        "course": "6-week Web Development Internship Program",
+        "duration": "15 July 2025 to 15 August 2025",
+        "status": "Verified",
+        "college": "P.I.E.T - Panipat Institute of Engineering & Technology, Panipat",
+        "issued_by": "SIYADNK SOFTWARE PRIVATE LIMITED"
+    },
+    {
+        "id": "PIET2025004",
+        "name": "Ashish",
+        "course": "4-week Web Development Internship Program",
+        "duration": "15 July 2025 to 15 August 2025",
+        "status": "Verified",
+        "college": "P.I.E.T - Panipat Institute of Engineering & Technology, Panipat",
+        "issued_by": "SIYADNK SOFTWARE PRIVATE LIMITED"
+    },
+    {
+        "id": "PIET2025005",
+        "name": "Jai",
+        "course": "6-week Web Development Internship Program",
+        "duration": "15 July 2025 to 15 August 2025",
+        "status": "Verified",
+        "college": "P.I.E.T - Panipat Institute of Engineering & Technology, Panipat",
+        "issued_by": "SIYADNK SOFTWARE PRIVATE LIMITED"
+    },
+    {
+        "id": "PIET2025006",
+        "name": "Vijay",
+        "course": "4-week AI / ML Internship Program",
+        "duration": "15 July 2025 to 15 August 2025",
+        "status": "Verified",
+        "college": "P.I.E.T - Panipat Institute of Engineering & Technology, Panipat",
+        "issued_by": "SIYADNK SOFTWARE PRIVATE LIMITED"
+    },
+    {
+        "id": "PIET2025007",
+        "name": "Harshit",
+        "course": "6-week AI / ML Internship Program",
+        "duration": "15 July 2025 to 15 August 2025",
+        "status": "Verified",
+        "college": "P.I.E.T - Panipat Institute of Engineering & Technology, Panipat",
+        "issued_by": "SIYADNK SOFTWARE PRIVATE LIMITED"
+    },
+    {
+        "id": "PIET2025008",
+        "name": "Parth",
+        "course": "4-week Web Development Internship Program",
+        "duration": "15 July 2025 to 15 August 2025",
+        "status": "Verified",
+        "college": "P.I.E.T - Panipat Institute of Engineering & Technology, Panipat",
+        "issued_by": "SIYADNK SOFTWARE PRIVATE LIMITED"
+    },
+    {
+        "id": "PIET2025009",
+        "name": "Yash",
+        "course": "6-week Web Development Internship Program",
+        "duration": "15 July 2025 to 15 August 2025",
+        "status": "Verified",
+        "college": "P.I.E.T - Panipat Institute of Engineering & Technology, Panipat",
+        "issued_by": "SIYADNK SOFTWARE PRIVATE LIMITED"
+    },
+    {
+        "id": "PIET2025010",
+        "name": "Manaya Miglani",
+        "course": "6-week Full Stack Web Development Internship Program",
+        "duration": "15 July 2025 to 15 August 2025",
+        "status": "Verified",
+        "college": "P.I.E.T - Panipat Institute of Engineering & Technology, Panipat",
+        "issued_by": "SIYADNK SOFTWARE PRIVATE LIMITED"
+    },
+    {
+        "id": "PIET2025011",
+        "name": "Rupanshu",
+        "course": "6-week Full Stack Web Development Internship Program",
+        "duration": "15 July 2025 to 15 August 2025",
+        "status": "Verified",
+        "college": "P.I.E.T - Panipat Institute of Engineering & Technology, Panipat",
+        "issued_by": "SIYADNK SOFTWARE PRIVATE LIMITED"
+    },
+    {
+        "id": "PIET2025012",
+        "name": "Sahil",
+        "course": "6-week Digital Marketing & E-commerce Internship Program",
+        "duration": "15 July 2025 to 15 August 2025",
+        "status": "Verified",
+        "college": "P.I.E.T - Panipat Institute of Engineering & Technology, Panipat",
+        "issued_by": "SIYADNK SOFTWARE PRIVATE LIMITED"
     }
 ]
