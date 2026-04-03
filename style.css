@@ -40,10 +40,10 @@ body {
 }
 
 .search-hint {
-    margin-top: 40px; /* Increased significantly to ensure clear separation */
+    margin-top: 20px;
     font-size: 0.9rem;
-    color: #666; /* Slightly darker for better visibility */
-    font-weight: 400; /* Regular weight for clarity */
+    color: #666;
+    font-weight: 400;
 }
 
 .navbar .container {
